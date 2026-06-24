@@ -5,7 +5,6 @@
   --desktop-panel-min-height: 200px;
   --desktop-panel-max-height: 600px;
 }
-/* to test*/
 
 body::before {
   content: "Stage ENVIRONMENT";
